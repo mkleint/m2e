@@ -422,4 +422,6 @@ public class MavenPluginActivator extends Plugin {
   public ArtifactFilterManager getArifactFilterManager() {
     return artifactFilterManager;
   }
+  
+  
 }
